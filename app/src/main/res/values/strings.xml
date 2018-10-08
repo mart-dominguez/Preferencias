@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Preferencias2</string>
+    <string name="title_activity_preferencias">PreferenciasActivity</string>
+    <string name="pref_preferencia1">Preferencia 1</string>
+    <string name="pref_preferencia1_det">Detalle preferencia 1</string>
+    <string name="pref_preferencia2">Preferencia 2</string>
+    <string name="pref_preferencia2_det">Detalle preferencia 2</string>
+</resources>
